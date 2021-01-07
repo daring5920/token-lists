@@ -13,8 +13,8 @@
   ],
   "tokens": [
     {
-      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-      "chainId": 1,
+      "address": "0x827A5EaD567fA82619F4936CE6B1B7Cb94cAb3eB",
+      "chainId": 5920,
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18
